@@ -7,10 +7,9 @@ public class Start {
 		
 		int n=2;
 		
-		for (int i=0; i<21; i++) {
+		for (int i=0; i<11; i++) {
 				
 			System.out.println(i*n);}
-		
 		
 		
 	}
